@@ -36,8 +36,8 @@
 
 1. **Clone the repo**:
 ```bash
-git clone https://github.com/cryptodai3/Interlink-Auto-Bot.git
-cd Interlink-Auto-Bot
+git clone https://github.com/cryptodai3/Interlink-Multi-Bot.git
+cd Interlink-Multi-Bot
 ```
 
 2. **Install dependencies**:
