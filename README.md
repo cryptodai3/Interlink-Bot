@@ -1,4 +1,4 @@
-# Interlink Auto Bot
+# Interlink Multi Bot
 
 ⚡ Automated multi-account bot for claiming Interlink Labs airdrop tokens on autopilot – now with full proxy and OTP login support.
 
