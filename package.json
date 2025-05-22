@@ -1,0 +1,41 @@
+{
+  "name": "interlink-auto-bot",
+  "version": "1.0.0",
+  "description": "Automated bot for claiming Interlink Labs airdrop tokens",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cryptodai3/Interlink-Auto-Bot.git"
+  },
+  "keywords": [
+    "interlink",
+    "airdrop",
+    "crypto",
+    "bot",
+    "automation"
+  ],
+  "author": "cryptodai3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cryptodai3/Interlink-Auto-Bot/issues"
+  },
+  "homepage": "https://github.com/cryptodai3/Interlink-Auto-Bot#readme",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "https-proxy-agent": "^7.0.2",
+    "moment": "^2.29.4",
+    "socks-proxy-agent": "^8.0.1",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
