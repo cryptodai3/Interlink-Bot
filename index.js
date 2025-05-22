@@ -35,7 +35,7 @@ const logger = {
   banner: () => {
     console.log(`${colors.cyan}${colors.bold}`);
     console.log(`---------------------------------------------`);
-    console.log(`Interlink Auto Bot - cryptodai3`);
+    console.log(`Interlink Multi Bot - cryptodai3`);
     console.log(`---------------------------------------------${colors.reset}`);
     console.log();
   }
